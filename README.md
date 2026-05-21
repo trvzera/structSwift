@@ -1,3 +1,10 @@
+> **EN:** School Swift Playground on structs: value types, `let`/`var`, `mutating` methods, and a classroom attendance simulation.
+>
+> *The rest of this README is in Brazilian Portuguese (pt-BR).*
+
+
+---
+
 # Struct Swift
 
 Atividade escolar para entender o básico de **structs** em Swift (tipos por valor, `let` vs `var`, métodos `mutating`), feita no **Playground** (Xcode).
